@@ -1,6 +1,7 @@
 package com.astocoding.backend.timer;
 
 
+import com.astocoding.backend.job.JobCollection;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -20,6 +21,9 @@ public class Timer extends Thread{
 
 //    timerInterval 的时间单位
     private TimeUnit timeUnit;
+
+//    任务集合
+    private JobCollection jobCollection;
 
     public void setInterval(long timeInterval, TimeUnit timeUnit){
         this.timerInterval = (int) timeInterval;
