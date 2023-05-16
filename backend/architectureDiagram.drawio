@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:56:49.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8yG38p-X4iaBLoOUlaTO" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T11:00:06.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="p744oKmra6u-h6NCp7IX" version="21.0.2" type="github">
   <diagram name="第 1 页" id="3CROmkCj4vOVYzwMO_0X">
     <mxGraphModel dx="1247" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="8lkGd6p5SHaPr2RWTDbD-30" value="Config" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-175" y="590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lkGd6p5SHaPr2RWTDbD-32" value="Entity:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;DataSource&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;ReadDataSource&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;WriteDataSource&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Exceutor&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Job&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Configuration&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="540" y="363.75" width="170" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="8lkGd6p5SHaPr2RWTDbD-33" value="Store/Load Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="428.75" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
